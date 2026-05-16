@@ -18,11 +18,11 @@ const Hero = () => {
                 <div className="hero-resume">
                     <a
                         className="anchor-link"
-                        href="/Resume.pdf"
+                        href="https://drive.google.com/file/d/1Xr-FZEy0IMqvs3QDjYtigOW77MUjW2v2/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Open Resume
+                        Resume
                     </a>
                 </div>
             </div>
